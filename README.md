@@ -36,7 +36,7 @@ This project evaluates which technical indicators are most predictive of stock p
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/trading-indicator-analysis.git
+git clone https://github.com/bayutamawib/trading-indicator-analysis.git
 cd trading-indicator-analysis
 
 # Create virtual environment

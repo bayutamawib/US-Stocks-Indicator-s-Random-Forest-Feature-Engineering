@@ -127,34 +127,6 @@ This project is fully implemented and ready for GitHub deployment. All core func
 - **F1-Score**: 0.7742
 - **Top Indicators**: Stoch_K, ADX, MACD_Histogram
 
-## 🚀 Ready for GitHub
-
-### What to Do Before Pushing
-
-1. **Update GitHub URLs** in README.md and SETUP.md:
-   ```bash
-   # Replace "yourusername" with your actual GitHub username
-   sed -i 's/yourusername/YOUR_USERNAME/g' README.md SETUP.md
-   ```
-
-2. **Create .gitignore entries** (already included):
-   - `__pycache__/`
-   - `*.pyc`
-   - `.pytest_cache/`
-   - `venv/`
-   - `data/cache/`
-   - `models/`
-   - `reports/`
-
-3. **Initialize Git** (if not already done):
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Trading Indicator Analysis system"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/trading-indicator-analysis.git
-   git push -u origin main
-   ```
 
 ### GitHub Repository Structure
 
